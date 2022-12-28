@@ -1,0 +1,30 @@
+company: '<b> Capital One </b> <br/>'
+position: '<b> Senior Data Analyst: </b> Aug 2022 - Present'
+body: 'Working as a developer on the design and maintenance of a business
+ critical data product for credit valuations,  spanning the entire US Card portfolio and interacting
+ with all enterprise ML valuations models <br/>'
+position2:  '<b> Data Analyst: </b> Aug 2021 - July 2022'
+body2: 'Automated reports, supported ad-hoc risk events for data support <br/>'
+position3: '<b> Data Analyst Intern: </b> Jun 2020 - Aug 2020'
+body3: 'Customer complaints dashboard in Tableau <br/>'
+
+
+company2: '<b> The Consulting Group At Virginia Tech </b> <br/>'
+position4: '<b> Consultant (Pro-Bono): </b> Jan 2018 - May 2022'
+body4: 'Worked on 8 pro bono consulting projects for clients ranging from startups to 
+ large govt contractors.<br/>'
+
+
+# role1:
+#   company: '<b> Capital One</b>'
+#   position: 'Senior Data Analyst: Aug 2022 - Present'
+#   body: 'Working as a developer on the design and maintenance of a business 
+#         critical data product for credit valuations, 
+#         spanning the entire US Card portfolio and interacting
+#         with all enterprise ML valuations models. <br/>
+#          Data outputs  have visibility to senior leadership & Board of Directors.'
+# role2:
+#   company: '<b> Capital One</b>'
+#   position: 'Data Analyst: Aug 2022 - Present'
+#   body: 'Dashboarding'
+
